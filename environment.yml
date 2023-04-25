@@ -1,0 +1,4 @@
+name: ml-assignment-3
+channels:
+  - defaults
+prefix: /home/sriman/anaconda3/envs/ml-assignment-3
